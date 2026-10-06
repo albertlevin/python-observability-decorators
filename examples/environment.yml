@@ -1,0 +1,3 @@
+environment: dev
+workspace_name: sample-workspace
+raw_lakehouse: raw
